@@ -5,7 +5,8 @@
 **Ciência da Computação** · Universidade Presbiteriana Mackenzie
 Estagiário em **Governança de Dados**
 
-[![E-mail](https://img.shields.io/badge/i77sbarbosa@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:i77sbarbosa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/isaac-soares-59655a243)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:i77sbarbosa@gmail.com)
 
 </div>
 
